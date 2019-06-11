@@ -1,2 +1,2 @@
 # sample-apps-android-sdk22
-Android Sample, requires Android SDK 22
+Android Sample app, requires Android SDK 22
